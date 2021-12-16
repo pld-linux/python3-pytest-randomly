@@ -14,7 +14,7 @@ Source0:	https://files.pythonhosted.org/packages/source/p/pytest-randomly/pytest
 # Source0-md5:	f96fca61973c8361ce267f0f5b054e20
 URL:		https://pypi.org/project/pytest-randomly/
 BuildRequires:	python3-modules >= 1:3.6
-BuildRequires:	python3-setuptools >= 40.6.0
+BuildRequires:	python3-setuptools >= 1:40.6.0
 %if %{with tests}
 BuildRequires:	python3-factory_boy
 BuildRequires:	python3-faker
