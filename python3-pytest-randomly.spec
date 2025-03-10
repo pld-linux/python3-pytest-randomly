@@ -6,7 +6,7 @@ Summary:	Pytest plugin to randomly order tests and control random.seed
 Summary(pl.UTF-8):	Wtyczka pytesta do losowej kolejności testów i sterowania random.seed
 Name:		python3-pytest-randomly
 Version:	3.11.0
-Release:	5
+Release:	6
 License:	MIT
 Group:		Libraries/Python
 #Source0Download: https://pypi.org/simple/pytest-randomly/
